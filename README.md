@@ -66,3 +66,8 @@ O projeto foi desenvolvido durante a **Next Level Week 2**,realizada pela **[Roc
 
 ## 👨🏻‍🚀Meus agradecimentos
 Fica aqui meu profundo obrigado a **[Rocketseat](https://rocketseat.com.br)**,ao **[Diego Fernandes](https://github.com/diego3g)** e a **[Comunidade da Rocketseat](https://discordapp.com/invite/gCRAFhc)**!
+
+
+<h4 align="center">
+    👨🏻‍🚀 Feito por <a href="https://www.linkedin.com/in/marcus-vinicius-silva-costa-6098911a4" target="_blank">Marcus Vinicius</a>
+</h4>
